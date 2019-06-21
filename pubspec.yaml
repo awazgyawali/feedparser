@@ -1,0 +1,16 @@
+name: feedparser
+version: 0.0.2
+description: RSS feed parser.
+authors:
+- Victor Choueiri <victor.oc@gmail.com>
+homepage: https://github.com/xqwzts/feedparser
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  xml: "^3.0.0-alpha"
+  
+dev_dependencies:
+  test: ^1.6.4
+
