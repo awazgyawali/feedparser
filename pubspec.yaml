@@ -9,7 +9,7 @@ environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
 
 dependencies:
-  xml: "^3.0.0-alpha"
+  xml:
   
 dev_dependencies:
   test: ^1.6.4
